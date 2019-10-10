@@ -1,0 +1,12 @@
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\bin\Debug\TiendaDeComputacion.exe.config
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\bin\Debug\TiendaDeComputacion.exe
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\bin\Debug\TiendaDeComputacion.pdb
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.csprojAssemblyReference.cache
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.frmInicio.resources
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.Properties.Resources.resources
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.csproj.GenerateResource.cache
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.csproj.CoreCompileInputs.cache
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.exe
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.pdb
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.frmNuevoPresupuesto.resources
+D:\Proyectos\100 days\TiendaDeComputacion\TiendaDeComputacion\obj\Debug\TiendaDeComputacion.frmNuevoProducto.resources
